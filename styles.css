@@ -1,0 +1,19 @@
+.logo{
+    display: block;
+    margin: auto;
+    padding: 0.5em;
+    width: 12%;
+    height: auto;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    padding: 0.1em;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 0.2em;
+}
