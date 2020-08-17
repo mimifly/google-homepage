@@ -1,19 +1,22 @@
+.center{
+    width: 50%;
+    margin: auto;
+    border: 1px dotted green;
+
+
+}
 .logo{
     display: block;
     margin: auto;
+    border: 1px dotted green;
     padding: 0.5em;
-    width: 12%;
+    width: 33%;
     height: auto;
 }
-
-.input{
-    display: flex;
-    justify-content: center;
-    padding: 0.1em;
+.form{
+    border: 1px dotted green;
+    text-align: center;
+    display: block;
+    margin: auto;
 }
-
-.buttons{
-    display: flex;
-    justify-content: center;
-    padding: 0.2em;
 }
